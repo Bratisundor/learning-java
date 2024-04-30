@@ -1,0 +1,2 @@
+First Name	 Middle Name	 Last Name	 Department	 Registration Number	Address	Mobile Number 
+Brati	Sundor	Biswas	DCST	D222305304	Asannagar,RamkrishnaPally,Bhimpur,Nadia,741167	9775930925
